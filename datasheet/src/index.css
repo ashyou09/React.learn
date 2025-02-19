@@ -1,0 +1,9 @@
+.student1{
+    border: solid black 2px;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    background-color: #f0f0f0;
+    box-shadow: 10px 4px 2px #3d2c2c69;
+    margin: 10px
+}
