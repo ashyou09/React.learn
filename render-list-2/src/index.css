@@ -1,0 +1,20 @@
+
+.list-category{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border : 2px solid black;
+    text-align: center;
+    padding: 10px;
+    background-color: bisque;
+}
+.list-item li{
+    font-size : 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color : rgb(77, 31, 31) ;
+    padding: 5px;
+    text-align: center;
+}
+.list-item li:hover{
+    background-color: rgb(238, 239, 233);
+    cursor: pointer;
+}
